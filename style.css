@@ -1,0 +1,370 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+img {
+	position: absolute;
+}
+
+.Austria{
+
+	left: 821px;
+	top: 770px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Austria:hover{
+	opacity:1;
+}
+
+.Netherlands{
+
+	left: 645px;
+	top: 671px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Netherlands:hover{
+	opacity:1;
+}
+
+.Iceland{
+
+	left: 117px;
+	top: 408px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Iceland:hover{
+	opacity:1;
+}
+
+.Spain{
+
+	left: 420px;
+	top: 910px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Spain:hover{
+	opacity:1;
+}
+
+.Germany{
+
+	left: 704px;
+	top: 700px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Germany:hover{
+	opacity:1;
+}
+
+.Japan{
+
+	left: 3415px;
+	top: 1057px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Japan:hover{
+	opacity:1;
+}
+
+.France{
+
+	left: 561px;
+	top: 784px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.France:hover{
+	opacity:1;
+}
+
+.UnitedKingdom{
+
+	left: 489px;
+	top: 659px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.UnitedKingdom:hover{
+	opacity:1;
+}
+
+.Iran{
+
+	left: 1614px;
+	top: 1065px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Iran:hover{
+	opacity:1;
+}
+
+.Russia{
+
+	left: 2031px;
+	top: 440px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Russia:hover{
+	opacity:1;
+}
+
+.India{
+
+	left: 2104px;
+	top: 1280px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.India:hover{
+	opacity:1;
+}
+
+.NorthKorea{
+
+	left: 3127px;
+	top: 903px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.NorthKorea:hover{
+	opacity:1;
+}
+
+.Turkey{
+
+	left: 1198px;
+	top: 940px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Turkey:hover{
+	opacity:1;
+}
+
+.Sweden{
+
+	left: 801px;
+	top: 434px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Sweden:hover{
+	opacity:1;
+}
+
+.Belgium{
+
+	left: 613px;
+	top: 712px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Belgium:hover{
+	opacity:1;
+}
+
+.Switzerland{
+
+	left: 674px;
+	top: 796px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Switzerland:hover{
+	opacity:1;
+}
+
+.Norway{
+
+	left: 765px;
+	top: 249px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Norway:hover{
+	opacity:1;
+}
+
+.China{
+
+	left: 2502px;
+	top: 1010px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.China:hover{
+	opacity:1;
+}
+
+.Malta{
+
+	left: 820px;
+	top: 1041px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Malta:hover{
+	opacity:1;
+}
+
+.Egypt{
+
+	left: 1093px;
+	top: 1208px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Egypt:hover{
+	opacity:1;
+}
+
+.Ireland{
+
+	left: 344px;
+	top: 643px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Ireland:hover{
+	opacity:1;
+}
+
+.Philippines{
+
+	left: 3144px;
+	top: 1461px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Philippines:hover{
+	opacity:1;
+}
+
+.Ukraine{
+
+	left: 1123px;
+	top: 729px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Ukraine:hover{
+	opacity:1;
+}
+
+.UnitedArabEmirates{
+
+	left: 1603px;
+	top: 1257px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.UnitedArabEmirates:hover{
+	opacity:1;
+}
+
+.Pakistan{
+
+	left: 1905px;
+	top: 1140px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Pakistan:hover{
+	opacity:1;
+}
+
+.Greece{
+
+	left: 917px;
+	top: 1027px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Greece:hover{
+	opacity:1;
+}
+
+.Indonesia{
+
+	left: 2734px;
+	top: 1839px;
+	opacity:0;
+	transition: opacity 1s;
+	
+}
+
+.Indonesia:hover{
+	opacity:1;
+}
+
+.player{
+	position: absolute;
+	left:600px;
+	top: 10px;
+	mix-blend-mode:overlay;
+	transform: scale(2,1.5);
+	z-index:10;
+}
